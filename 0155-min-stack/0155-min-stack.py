@@ -1,3 +1,4 @@
+# o(1)/o(n)-> 핵심 
 class MinStack:
 
     def __init__(self):
