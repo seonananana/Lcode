@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seonananana/Lcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/seonananana/Lcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seonananana/Lcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seonananana/Lcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/seonananana/Lcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seonananana/Lcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Stack
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/seonananana/Lcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/seonananana/Lcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
