@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/seonananana/Lcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/seonananana/Lcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seonananana/Lcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seonananana/Lcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/seonananana/Lcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seonananana/Lcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Stack
 |  |
@@ -42,4 +44,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/seonananana/Lcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
