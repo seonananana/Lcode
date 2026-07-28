@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/seonananana/Lcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/seonananana/Lcode/tree/master/0217-contains-duplicate) |
+| [0300-longest-increasing-subsequence](https://github.com/seonananana/Lcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/seonananana/Lcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seonananana/Lcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0733-flood-fill](https://github.com/seonananana/Lcode/tree/master/0733-flood-fill) |
@@ -141,8 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/seonananana/Lcode/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/seonananana/Lcode/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/seonananana/Lcode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/seonananana/Lcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
