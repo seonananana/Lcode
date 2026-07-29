@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/seonananana/Lcode/tree/master/0572-subtree-of-another-tree) |
+| [1143-longest-common-subsequence](https://github.com/seonananana/Lcode/tree/master/1143-longest-common-subsequence) |
 ## Hash Function
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/seonananana/Lcode/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/seonananana/Lcode/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/seonananana/Lcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
