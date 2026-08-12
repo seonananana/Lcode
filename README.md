@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/seonananana/Lcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/seonananana/Lcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/seonananana/Lcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/seonananana/Lcode/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/seonananana/Lcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/seonananana/Lcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/seonananana/Lcode/tree/master/0392-is-subsequence) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/seonananana/Lcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/seonananana/Lcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/seonananana/Lcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/seonananana/Lcode/tree/master/0139-word-break) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/seonananana/Lcode/tree/master/1025-divisor-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/seonananana/Lcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
