@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/seonananana/Lcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seonananana/Lcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/seonananana/Lcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/seonananana/Lcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/seonananana/Lcode/tree/master/1137-n-th-tribonacci-number) |
 ## Randomized
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/seonananana/Lcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/seonananana/Lcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/seonananana/Lcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/seonananana/Lcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/seonananana/Lcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/seonananana/Lcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -183,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/seonananana/Lcode/tree/master/0392-is-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/seonananana/Lcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/seonananana/Lcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/seonananana/Lcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
